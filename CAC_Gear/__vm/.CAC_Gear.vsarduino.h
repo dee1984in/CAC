@@ -15,6 +15,7 @@
 #define _VSARDUINO_H_
 #define __AVR_atmega1280__
 #define __AVR_ATmega1280__
+#define _VMDEBUG 1
 #define F_CPU 16000000L
 #define ARDUINO 108013
 #define ARDUINO_AVR_MEGA
